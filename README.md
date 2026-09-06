@@ -132,6 +132,7 @@ Each dashboard includes:
 
 ## Project Structure
 
+```text
 Superstore-Performance-Dashboard-Excel/
 │
 ├── Data/
