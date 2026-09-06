@@ -2,8 +2,6 @@
 
 An interactive, multi-tab Excel dashboard built on the Sample Superstore dataset (2014-2017). Covers data cleaning, KPI design, native Excel charts, and click-driven navigation, all without add-ins.
 
-This is the Excel half of a two-part project. A companion Tableau dashboard, built on the same dataset with a different analytical angle, is linked below.
-
 ## Dataset
 
 Sample Superstore (`Orders`, `Returns`, `People` sheets)
@@ -34,6 +32,3 @@ Excel and Tableau are used for what each does best on the same data, not the sam
 Every tab has the same rail: a Navigation panel to jump between tabs, a Filters panel (Category, Region, Segment), and a collapsible Year timeline toggled with a button. Operations also has its own local Ship Mode filter.
 
 
-## Companion project
-
-Tableau dashboard on the same dataset, focused on profitability diagnostics: link coming soon.
