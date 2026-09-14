@@ -130,27 +130,18 @@ Each dashboard includes:
 - At the sub-category level, **Copiers, Phones, and Accessories** are major profit contributors.
 - **Tables** generate the largest sub-category loss at approximately **$17.7K**.
 
-## Project Structure
+## Dashboard Screenshots
+PAGE 1 
+<img width="1598" height="588" alt="image" src="https://github.com/user-attachments/assets/5e0b1edf-75b8-48c3-bcb6-4789fdb26467" />
 
-```text
-Superstore-Performance-Dashboard-Excel/
-│
-├── Data/
-│   ├── Orders
-│   ├── Returns
-│   └── People
-│
-├── Dashboard/
-│   ├── Overview
-│   ├── Regional
-│   ├── Customer
-│   └── Operations
-│
-├── Images/
-│   └── Dashboard screenshots
-│
-└── README.md
-```
+PAGE 2
+<img width="1596" height="592" alt="image" src="https://github.com/user-attachments/assets/b6c8c661-331f-4809-b0d5-2a0ad099479b" />
+
+PAGE 3 
+<img width="1497" height="537" alt="image" src="https://github.com/user-attachments/assets/dd2ad402-fc51-4f46-820a-a92ef92b1762" />
+
+PAGE 4
+<img width="1398" height="511" alt="image" src="https://github.com/user-attachments/assets/bf2e3caf-ba59-435d-9fbb-7ec2e6c3c213" />
 
 ## Conclusion
 
